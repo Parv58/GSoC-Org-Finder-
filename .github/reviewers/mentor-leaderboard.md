@@ -5,7 +5,6 @@
 | Rank | Mentor | Reviews | Score |
 |------|--------|---------|-------|
 | 🥇 | @TarunyaProgrammer | 9 | 37 |
-| 🥈 | @4f4d | 7 | 37 |
 | 🥉 | @KUMARNiru007 | 6 | 22 |
 | 4 | @deepak0x | 5 | 20 |
 | 5 | @saurabh24thakur | 3 | 17 |
